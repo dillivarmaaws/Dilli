@@ -1,0 +1,7 @@
+!# /bin/bash
+
+Create a empty file
+write some data in to the file
+view the content of file
+count the number of lines in a file
+delethe file using rm command
