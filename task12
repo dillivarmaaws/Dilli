@@ -1,0 +1,10 @@
+name = 'dillivarma'
+age = 35
+print(f'My name is {name} and i\'m {age} year old.')
+
+print('My name is {} and i\'m {} year old'.format(name, age))
+
+print('My name is {name} and i\'m {age}
+
+#formatted a string
+
