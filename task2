@@ -1,0 +1,4 @@
+$ set how do you do
+$ echo $1 $2
+how do
+#Here, “how” was assigned to $1 and “do” was assigned to $2 and so on.
